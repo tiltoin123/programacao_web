@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    height: 500;
+    width: 400;
+}
+
+
+.logo{
+    background-color: black;
+    height: 60px;
+    width: 600px;
+}
+
+.social{
+    text-align: center;
+    text-decoration-line: line-through;
+}
