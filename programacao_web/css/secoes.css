@@ -1,0 +1,81 @@
+#estados{
+    height: 400px;
+    background-color: aqua;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#motos{
+    background-color:darkorange;
+    height: 300px;
+    border: solid 1px green;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#animais{
+    background-color: blueviolet;
+    height: 250px;
+    border: solid 1px gold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#clubes{
+    height: 400px;
+    background-color: cadetblue;
+    border: solid 1px red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#noticias{
+    height: 250px;
+    background-color: yellow;
+    border: solid 1px yellowgreen;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.irnoticias{
+    position:fixed;
+    bottom: 500px;
+    right: 5px;
+    text-decoration: none;
+    color:white;
+    background-color: blue;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.irnoticias:hover{
+    background-color: yellow;
+
+    text-decoration: underline;
+}
+
+.iranimais{
+    position: fixed;
+    bottom: 460px;
+    right:5px;
+    text-decoration: none;
+    color: darkolivegreen;
+    background-color: bisque;
+    font-size: 12px;
+    padding: 10px
+}
+
+.iranimais:hover{
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+#config{
+    height: 250px;
+    background-color: yellow;
+    border: solid 1px yellowgreen;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
